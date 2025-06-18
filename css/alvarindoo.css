@@ -6,8 +6,8 @@
 header#cabecalho h1 {
     font-family: "Century Schoolbook", sans-serif;
    position: relative;
-    font-size: 20pt;
-    margin: 20px;
+    font-size: 25pt;
+    margin: 12px;
 
 }
 body{
@@ -24,7 +24,7 @@ header {
     align-items: center;
 }
 nav a {
-    color: #606060;
+    color: #ffffff;
     margin: 0 15px;
     text-decoration: none;
     transition: color 0.3s;
@@ -99,7 +99,7 @@ input, textarea {
     border: none;
     border-radius: 8px;
     font-size: 1rem;
-    width: 500px;
+    width: 100%;
 }
 button {
     background: #00ffe1;
@@ -126,20 +126,21 @@ footer{
     padding: 10px;
 }
 #video2 {
-    width: 70%; /* Fazem o player ocupar toda a largura do container */
+    width: 65%; /* Fazem o player ocupar toda a largura do container */
     border-radius: 8px;
     margin-top: 5px;
     margin-bottom: 10px;
-    margin-left:210px;
+    margin-left:240px;
+
 
 }
 
 #video3 {
-    width: 70%; /* Fazem o player ocupar toda a largura do container */
+    width: 65%; /* Fazem o player ocupar toda a largura do container */
     border-radius: 8px;
     margin-top: 5px;
     margin-bottom: 10px;
-    margin-left:210px;
+    margin-left:240px;
 
 }
 
@@ -155,7 +156,7 @@ header#cabecalho img#icone {
 /*Cor e tamanho do cabeçalho*/
 header#cabecalho {
     border-bottom: 1px #606060 solid;
-    height: 180px;
+    height: 140px;
     background: linear-gradient(135deg, #150b25, #342f71, #24243e);
     font-weight: bold;
 }
