@@ -136,7 +136,7 @@ footer{
 }
 
 #video3 {
-    width: 65%; /* Fazem o player ocupar toda a largura do container */
+    width: 800px; /* Fazem o player ocupar toda a largura do container */
     border-radius: 8px;
     margin-top: 5px;
     margin-bottom: 10px;
