@@ -130,17 +130,17 @@ footer{
     border-radius: 8px;
     margin-top: 5px;
     margin-bottom: 10px;
-    margin-left:240px;
+    margin-left:230px;
 
 
 }
 
 #video3 {
-    width: 800px; /* Fazem o player ocupar toda a largura do container */
+    width: 65%; /* Fazem o player ocupar toda a largura do container */
     border-radius: 8px;
     margin-top: 5px;
     margin-bottom: 10px;
-    margin-left:240px;
+    margin-left:230px;
 
 }
 
